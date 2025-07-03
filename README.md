@@ -11,10 +11,7 @@ The primary font used in the portfolio is Helvetica. Different font weights are 
 The portfolio uses a minimalist color palette with shades of gray and darkish colors. The number of colors is limited to 2-3 to maintain a cohesive look.
 
 ## GitHub Pages Setup
-To set up GitHub Pages for this repository, follow these steps:
-
-1. Go to the repository settings of `leonardobora/my-portfolio` on GitHub.
-2. Scroll down to the "GitHub Pages" section.
-3. Under "Source", select the branch you want to use for GitHub Pages (usually `main` or `master`).
-4. Click "Save" to enable GitHub Pages for your repository.
-5. Your site will be published at `https://<username>.github.io/<repository-name>/`.
+Hoje, a inteligência artificial e as novas tecnologias estão transformando o mercado de tecnologia em alta velocidade. 
+No UniBrasil, como estudante de Engenharia de Software e estagiário na área, vejo de perto como IA, redes e sistemas inteligentes já fazem parte do dia a dia das empresas. 
+Ter uma base sólida em programação, banco de dados e arquitetura de sistemas é essencial para acompanhar essas mudanças e se destacar. 
+Quem busca aprender bem a base está mais preparado para inovar, crescer e aproveitar as oportunidades que surgem com cada nova tendência.
